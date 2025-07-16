@@ -18,7 +18,7 @@ Digite um texto ou link no campo, clique no botão e um QR Code será gerado aut
 
 ## 🔗 Acesse o projeto:
 
-👉 [https://contador-de-cliques-seven.vercel.app/](https://projeto-gerador-de-qr-code-five.vercel.app/)
+👉 https://projeto-gerador-de-qr-code-five.vercel.app/
 
 ---
 
