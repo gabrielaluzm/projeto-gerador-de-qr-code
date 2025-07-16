@@ -24,4 +24,4 @@ Digite um texto ou link no campo, clique no botão e um QR Code será gerado aut
 
 ## ✨ Preview:
 
-![Demonstração](./demo.gif)
+<img src="./demo.gif" alt="Demonstração do projeto" width="300">
